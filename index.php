@@ -1,6 +1,6 @@
 <?php 
-include('header.php');
-include('navbar.php');
+include('includes/header.php');
+include('includes/navbar.php');
 
  ?>
     <!-- BEGIN: Content-->
@@ -394,7 +394,7 @@ include('navbar.php');
     </div>
     <!-- END: Content-->
     <?php 
-include('script.php');
-include('footer.php');
+include('includes/script.php');
+include('includes/footer.php');
 
  ?>
