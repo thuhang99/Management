@@ -393,7 +393,7 @@ include('includes/navbar.php');
         </div>
     </div>
     <!-- END: Content-->
-    <?php 
+<?php 
 include('includes/script.php');
 include('includes/footer.php');
 
